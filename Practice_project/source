@@ -1,4 +1,4 @@
 未来实现项目：改进health_api项目，丰富模型。
-未来实现项目：私人数据库一件部署（建立私人数据库，使用nomic-embed-text建立自己的搜索引擎）
+未来实现项目：私人数据库一件部署（建立小型数据库，使用nomic-embed-text建立数据库内的搜索引擎）（辅助提高医疗，金融，交通，服务行业工作者工作效率）
 未来实现项目：相似图片查找实现(参考opencv/feature_extraction_openCV.ipynb)
 未来实现项目：小图片合并大图片(参考opencv/feature_extraction_openCV.ipynb)
