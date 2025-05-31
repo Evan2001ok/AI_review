@@ -18,6 +18,6 @@ transformer(pytorch)(Version1):
 transformer(pytorch)(Version2):
   https://www.bilibili.com/video/BV13c59zpENN
 
-AutoGluon(AutoML):
+AutoGluon(AutoML，More traditional machine learning):
   https://auto.gluon.ai/stable/tutorials/tabular/tabular-quick-start.html
 
