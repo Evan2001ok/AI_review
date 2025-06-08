@@ -17,7 +17,9 @@ transformer(pytorch)(Version1):
   
 transformer(pytorch)(Version2):
   https://www.bilibili.com/video/BV13c59zpENN
-
+  
+TinyML
+  https://www.bilibili.com/video/BV1c8wNe1ErX
 Kaggle:
 
   AutoGluon(AutoML，More traditional machine learning):
