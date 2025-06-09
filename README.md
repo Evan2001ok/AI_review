@@ -21,7 +21,7 @@ transformer(pytorch)(Version2):
 TinyML
   https://www.bilibili.com/video/BV1c8wNe1ErX
 
-yolov8
+yolov8 tutorial
   https://github.com/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb
   
 Kaggle:
