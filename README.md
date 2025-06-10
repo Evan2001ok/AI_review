@@ -27,6 +27,10 @@ yolov8 tutorial
 Yolo + Docker deployment
   https://www.bilibili.com/video/BV1ZP4y167Hu?
   https://www.bilibili.com/video/BV1AAoqYdETG
+
+Feature Engineering
+  https://www.bilibili.com/video/BV1qG4y1i7ng
+
   
 Kaggle:
 
