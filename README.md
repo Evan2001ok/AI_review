@@ -23,6 +23,10 @@ TinyML
 
 yolov8 tutorial
   https://github.com/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb
+
+Yolo + Docker deployment
+  https://www.bilibili.com/video/BV1ZP4y167Hu?
+  https://www.bilibili.com/video/BV1AAoqYdETG
   
 Kaggle:
 
