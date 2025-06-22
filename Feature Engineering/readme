@@ -1,2 +1,5 @@
 source:
-  ydata-profiling：自动生成eda报告
+  ydata-profiling：自动生成eda报告，分析数据
+  Feature-engine： 数据清洗，异常值处理，缺失值填充工具
+  featuretools：自动化特征生成，比较适合关系型数据
+  tsfresh：只用于时间序列特征提取
