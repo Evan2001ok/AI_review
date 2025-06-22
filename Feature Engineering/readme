@@ -3,3 +3,4 @@ source:
   Feature-engine： 数据清洗，异常值处理，缺失值填充工具
   featuretools：自动化特征生成，比较适合关系型数据
   tsfresh：只用于时间序列特征提取
+  random forest + cross_val_score:用于基线模型训练判断特征工程效果
